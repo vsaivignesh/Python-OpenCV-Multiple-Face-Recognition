@@ -22,7 +22,7 @@ These 3 algorithms could be added to the project by changing a single line.
   Local Binary Patterns Histograms (LBPH) Face Recognizer - `cv2.face.createLBPHFaceRecognizer()`
 
 ## Requirements
-1. [Python 2.7.x](https://www.python.org/downloads/)
+1. [Python 3.6](https://www.python.org/downloads/)
 2. [OpenCV 2](https://opencv.org/releases/)
 3. [Numpy](https://www.numpy.org/)
 
